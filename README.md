@@ -1,6 +1,15 @@
-# Stock_Beta_1
+# Stock Beta 1
 
-I'm trying to make a project of industrial stock control.
-But as you can see I have little experience!!
+Primeira experiência com uma aplicação de controlo de stock em Java, desenvolvida em 2016 como projeto de aprendizagem.
 
-I thank any help you can give.
+## Contexto
+
+O projeto explora conceitos iniciais de Android, Java, layouts, formulários e persistência de dados para gerir artigos de stock industrial.
+
+## Estado
+
+Arquivo histórico de aprendizagem. Não está em desenvolvimento ativo nem deve ser usado como aplicação de produção.
+
+## Tecnologias
+
+Java · Android
